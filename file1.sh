@@ -1,5 +1,5 @@
 #!/bin/bash
-str="hello world"
+str="hello"
 for i in $str
 do
 	rev=$i
